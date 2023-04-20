@@ -14,4 +14,4 @@ receber segundo número
 somar os dois números recebidos
 
 #saída
-mostrar o resultado da soma
+mostrar o resultado da soma.

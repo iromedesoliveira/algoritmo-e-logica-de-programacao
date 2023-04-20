@@ -19,4 +19,4 @@ receber quantidade de peças
 calcular o valor total da peça (quantidade * valor da peça)
 
 #saída
-mostrar o código da peça e seu valor total
+mostrar o código da peça e seu valor total.

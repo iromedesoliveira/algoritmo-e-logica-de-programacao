@@ -17,4 +17,4 @@ receber quantidade_maxima
 calcular o estoque médio com a fórmula estoque_medio = (quantidade_minima + quantidade_maxima) / 2
 
 #saída
-mostrar o estoque médio
+mostrar o estoque médio.
