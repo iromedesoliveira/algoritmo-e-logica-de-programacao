@@ -1,0 +1,15 @@
+/*
+Seção 1 - Exercicio 2
+
+Faça um algoritmo para somar dois números 
+e multiplicar o resultado pelo primeiro número
+*/
+
+
+"somar e multiplicar"
+
+receber o primeiro número
+receber o segundo número
+somar o primeiro número com o segundo número
+multiplicar a soma dos números pelo primeiro número
+mostrar o resultado da multiplicação
